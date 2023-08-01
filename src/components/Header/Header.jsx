@@ -10,7 +10,7 @@ function Header(){
       <div className="container">
         <SearchBar/>
         <CartButton/>
-        <a href="https://verly-g.online/" className="inicio">Voltar</a>
+        <a href="https://verly-g.github.io/" className="inicio">Voltar</a>
       </div>
     </header>
   );
